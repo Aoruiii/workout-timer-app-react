@@ -1,3 +1,8 @@
+# Purpose
+
+This project is to optimise the app performance by reducing wasted renders using memo.
+![Alt text](<Screenshot 2023-11-08 at 7.02.03 pm.png>)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
